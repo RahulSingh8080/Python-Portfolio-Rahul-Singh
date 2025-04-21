@@ -4,7 +4,8 @@ A sleek and interactive web app to estimate how many calories you need each day 
 
 ## 📸 Preview
 
-> *![Uploading Screenshot 2025-04-21 224012.jpg…]()
+> *![Screenshot 2025-04-21 224012](https://github.com/user-attachments/assets/ba32a8c3-f4e0-4766-9338-66aaf7e83df8)
+
 *
 
 ---
